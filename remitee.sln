@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "remitee", "remitee\remitee.csproj", "{10C3C47D-288D-4C32-8E74-2F1D99D2029F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C3C47D-288D-4C32-8E74-2F1D99D2029F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C3C47D-288D-4C32-8E74-2F1D99D2029F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C3C47D-288D-4C32-8E74-2F1D99D2029F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C3C47D-288D-4C32-8E74-2F1D99D2029F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA82FF2A-03ED-4478-B028-D5F86EA11779}
+	EndGlobalSection
+EndGlobal
